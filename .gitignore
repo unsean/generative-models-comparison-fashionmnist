@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+_md_dump.txt
+nul
+*_dump.txt
