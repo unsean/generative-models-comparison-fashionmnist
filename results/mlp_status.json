@@ -1,0 +1,6 @@
+{
+  "test_accuracy": 0.8907142857142857,
+  "threshold": 0.88,
+  "meets_threshold": true,
+  "quick": false
+}
