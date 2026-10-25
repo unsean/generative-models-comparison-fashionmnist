@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "seed": 42,
+  "quick": false,
+  "epochs": {
+    "mlp": 30,
+    "ae": 30,
+    "sparse": 30,
+    "vae": 30,
+    "gan": 50,
+    "dcgan": 40,
+    "ddpm": 25,
+    "fdec": 30
+  },
+  "fid_n": 1000,
+  "cfg": {
+    "batch_size": 256,
+    "latent": 64,
+    "sparse_lat": 256,
+    "gan_z": 100,
+    "lam_sparse": 0.001,
+    "lr_ae": 0.001,
+    "lr_gan": 0.0002,
+    "lr_ddpm": 0.0002,
+    "T": 1000,
+    "beta_start": 0.0001,
+    "beta_end": 0.02,
+    "n_fig1": 8
+  }
+}
