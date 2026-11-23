@@ -5,7 +5,7 @@ Sparse Autoencoder, VAE, Vanilla GAN, DCGAN, DDPM) disertai eksperimen pembuktia
 keterbatasan bobot dan latent feature MLP classifier untuk image generation
 (Tahap 1–5).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YPac2KxGZREFbHK6BQBK5rU8Bj8nct0c)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YPac2KxGZREFbHK6BQBK5rU8Bj8nct0c?usp=sharing)
 
 ## Isi
 
@@ -17,6 +17,6 @@ keterbatasan bobot dan latent feature MLP classifier untuk image generation
 ## Menjalankan
 
 Buka notebook di
-[Google Colab](https://colab.research.google.com/drive/1YPac2KxGZREFbHK6BQBK5rU8Bj8nct0c)
+[Google Colab](https://colab.research.google.com/drive/1YPac2KxGZREFbHK6BQBK5rU8Bj8nct0c?usp=sharing)
 dengan runtime GPU, lalu Run all. Dataset Fashion-MNIST diunduh otomatis oleh
 torchvision; hasil disimpan ke `results/` dan `checkpoints/`.
